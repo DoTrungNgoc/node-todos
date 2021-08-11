@@ -1,0 +1,16 @@
+
+html{
+    overflow-y: scroll;
+}
+body{
+    margin-top: 30px;
+}
+#todo-list{
+    margin-top: 30px;
+}
+#todo-form{
+    margin-top: 50px;
+}
+.strike{
+    text-decoration: line-through;
+}
